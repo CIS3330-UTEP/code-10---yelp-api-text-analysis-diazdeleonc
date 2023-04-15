@@ -1,0 +1,25 @@
+Code_10_Report & Analysis
+
+
+Offer a quick summary of the insights you want to discover using the Yelp Fusion
+The Yelp Fusion API enables access to a wide range of information about local businesses, including reviews, ratings, pictures, and more. Using this API, you can find out more about a variety of business-related subjects, such as customer feedback, popular menu items, and hotspot locations.I'll use this tool to look for my favorite cuisine, pizza, in a different city—Austin in this case. 
+
+
+Explain the search parameters (e.g., term, location, sort criteria) that you plan to use.
+ I was able to search for the phrase "pizza" using the Yelp Fusion API, then I could pick a location and the top 20 restaurants in that area. I then specifically chose Pedrossos Pizza, where I later researched the most popular dishes and previous customers' evaluations.
+
+Explain how you plan to use that information from the Yelp Fusion API to provide the business insights you want to discover
+I will quickly evaluate the top 20 in the Austin region using Yelp API to easily explore any ratings from any category or location I select, using that to assess its ratings and what previous customers think about a certain establishment. 
+
+Explain what text analysis (e.g., sentiment, most used words) you plan to use for obtaining the desired business insights
+The text analysis techniques I plan on using to get the needed business insights, such as sentiment analysis and word usage analysis.In this case, we evaluated, extracted, and obtained feedback from customers using Pedorssos reviews, using sentiment analysis tools. 
+
+Text insights report
+For this example, Pedrossos, we utilized text analysis to analyze the restaurant's reputation and extract all of its information, and then examined its reviews and menu with the provided URL.
+
+Report the results of your analysis
+I was able to learn much more about this business by using this URL. I was able to research food options, well-liked items, and other details like opening hours and restaurant ratings. The end result of my analysis was a URL that took me directly to its website, which is https://www.yelp.com/biz/pedrosos-pizza-austin?adjust_creative=Xz0XAEVbM05G8lNdGSrqEg&hrid=FLGr1KA9kmhmU8pdYRgMNQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Xz0XAEVbM05G8lNdGSrqEg.
+
+
+Offer a conclusion with the information you obtained from the analysis
+I've come to the conclusion, based on the data from the analysis, that this would be an excellent area to sit down and have a meal. The menu and the most widely consumed items were clearly apparent to me.
